@@ -1,0 +1,17 @@
+//log in
+// new
+//create new public repository
+
+///Create folder on desktop or any drive with the files you want to push inside the repository
+//right click on folder and open with git bash
+commands:
+
+
+$ git config --global user.SonalRM14
+$ git config --global user.email sonalmahindrakar10@gmail.com
+$ git init
+$ git add .
+$ git status
+$ git commit -m "commit one"
+$ git remote add origin https://github.com/SonalRM14/Practice.git
+$ git push origin master
